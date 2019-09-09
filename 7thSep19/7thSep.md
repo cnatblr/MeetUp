@@ -32,3 +32,6 @@ Agenda:
 	* Blog on the same http://engineitops.com/cloud-native-and-containerisation-joint-meetup-with-docker-bangalore-docker-internals-sangam-biradar/
 	* Follow him on [Twitter](https://twitter.com/BiradarSangam)
 	* Connect to him on [LinkedIn](	https://www.linkedin.com/in/sangambiradar14/)
+
+Find the Pics at https://github.com/imjuststarting/MeetUp/tree/master/7thSep19/Pics or 
+https://photos.app.goo.gl/wRPeRKQfdRhJgTTD7
